@@ -1,0 +1,81 @@
+<svg width="384.666" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <linearGradient y2="-0.008568" x2="0.991681" y1="0.794994" x1="-0.19924" id="SVGID_1_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.401316" x2="0.903814" y1="1.011917" x1="0.011426" id="SVGID_2_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.082877" x2="0.977998" y1="0.917849" x1="0.019711" id="SVGID_3_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.05025" x2="0.958183" y1="0.951366" x1="0.040793" id="SVGID_4_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.050273" x2="0.958207" y1="0.951294" x1="0.041122" id="SVGID_5_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.401838" x2="0.625461" y1="0.93446" x1="-0.054895" id="SVGID_6_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.404495" x2="0.803157" y1="1.168109" x1="0.101303" id="SVGID_7_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.056574" x2="0.829323" y1="0.914937" x1="-0.057613" id="SVGID_8_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="-0.012483" x2="0.992159" y1="1.012468" x1="0.007852" id="SVGID_9_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.255979" x2="2.101611" y1="0.744059" x1="-1.101715" id="SVGID_10_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <linearGradient y2="0.019385" x2="1.013597" y1="0.98063" x1="-0.013576" id="SVGID_11_">
+  <stop stop-color="#FFFFFF" offset="0"/>
+  <stop stop-color="#E3EFF6" offset="0.2179"/>
+  <stop stop-color="#9CC6E0" offset="0.6854"/>
+  <stop stop-color="#69A8D0" offset="1"/>
+ </linearGradient>
+ <g>
+  <title>Layer 1</title>
+  <polygon id="svg_1" points="13.351,60.483 11.9,64 0,64 0,33.994 25.002,33.994 23.179,37.775 4.275,37.813   4.275,60.474 " fill="url(#SVGID_1_)"/>
+  <polygon id="svg_2" points="13.085,64 20.797,64 40.893,18.053 47.553,33.994 35.311,33.994 33.573,37.765   48.753,37.765 59.845,64 67.093,64 41.125,0.082 " fill="url(#SVGID_2_)"/>
+  <path transform="rotate(-44.8982048034668 104.26399993896484,32.91799926757813) " id="svg_6" d="m91.617,46l0,-26.164l4.94,0l0,22.214l20.354,0l0,3.95l-25.294,0z" fill="url(#SVGID_6_)"/>
+  <path id="svg_7" d="m229.142,49l15.142,-26.164l4.522,0l15.489,26.164l-5.364,0l-3.413,-6.117l-18.08,0l-3.35,6.117l-4.946,0zm10.369,-9.885l13.899,0l-6.967,-12.447l-6.932,12.447z" fill="url(#SVGID_7_)"/>
+  <path id="svg_8" d="m283.551,22.836c2.501,0 4.6,0.162 6.286,0.5c1.71,0.328 3.113,0.836 4.218,1.514c1.784,1.132 3.184,2.659 4.197,4.597c0.994,1.94 1.505,4.078 1.505,6.405c0,4.401 -1.346,7.703 -4.02,9.877c-2.677,2.18 -6.735,3.271 -12.187,3.271l-15.062,0l0,-26.164l15.063,0zm-0.535,3.885l-9.588,0l0,18.329l9.588,0c4.266,0 7.294,-0.716 9.096,-2.154c1.795,-1.443 2.702,-3.799 2.702,-7.103c0,-3.213 -0.92,-5.53 -2.74,-6.95c-1.816,-1.411 -4.843,-2.122 -9.058,-2.122z" fill="url(#SVGID_8_)"/>
+  <path id="svg_9" d="m308.426,27.687c0,0.382 0.023,0.904 0.053,1.567c0.052,1.085 0.067,1.777 0.067,2.077l0,17.669l-4.07,0l0,-26.164l4.07,0l13.025,16.975l11.966,-16.975l4.583,0l0,26.164l-4.583,0l0,-17.669c0,-0.638 0.023,-1.27 0.075,-1.862c0.047,-0.609 0.131,-1.186 0.232,-1.758c-0.285,0.826 -0.579,1.557 -0.874,2.191c-0.305,0.63 -0.593,1.108 -0.849,1.429l-10.071,13.542l-1.299,0l-10.427,-13.413c-0.361,-0.467 -0.709,-1.009 -1.029,-1.643c-0.313,-0.613 -0.604,-1.316 -0.869,-2.13z" fill="url(#SVGID_9_)"/>
+  <path id="svg_10" d="m349.099,49l-4.912,0l0,-26.106l4.912,0l0,26.106z" fill="url(#SVGID_10_)"/>
+  <path id="svg_11" d="m358.62,28.076c0.11,0.767 0.215,1.538 0.268,2.314c0.059,0.796 0.085,1.577 0.085,2.364l0,16.246l-4.543,0l0,-26.164l3.766,0l19.209,17.092c0.561,0.48 1.099,1.01 1.608,1.593c0.515,0.594 1.027,1.246 1.526,1.987c-0.146,-0.778 -0.253,-1.57 -0.323,-2.378c-0.069,-0.795 -0.098,-1.635 -0.098,-2.499l0,-15.795l4.548,0l0,26.164l-3.369,0l-19.601,-17.339c-0.695,-0.645 -1.271,-1.239 -1.771,-1.82c-0.492,-0.573 -0.921,-1.165 -1.305,-1.765z" fill="url(#SVGID_11_)"/>
+  <path transform="rotate(177.97720336914062 148.33398437499997,35.00000000000001) " id="svg_12" d="m130.757494,48.082001l15.142,-26.164l4.522,0l15.489,26.164l-5.364,0l-3.413,-6.117l-18.08,0l-3.35,6.117l-4.946,0zm10.369,-9.885l13.899,0l-6.967,-12.447l-6.932,12.447z" fill="url(#SVGID_7_)"/>
+  <path transform="rotate(-93.74747467041016 184.333984375,34.99999999999999) " id="svg_13" d="m171.461995,26.769001c0,0.382 0.023,0.904 0.053,1.567c0.052,1.085 0.067,1.777 0.067,2.077l0,17.669l-4.07,0l0,-26.164l4.07,0l13.025,16.975l11.966,-16.975l4.583,0l0,26.164l-4.583,0l0,-17.669c0,-0.638 0.023,-1.27 0.075,-1.862c0.047,-0.609 0.131,-1.186 0.232,-1.758c-0.285,0.826 -0.579,1.557 -0.874,2.191c-0.305,0.63 -0.593,1.108 -0.849,1.429l-10.071,13.542l-1.299,0l-10.427,-13.413c-0.361,-0.467 -0.709,-1.009 -1.029,-1.643c-0.313,-0.613 -0.604,-1.316 -0.869,-2.13z" fill="url(#SVGID_9_)"/>
+ </g>
+</svg>

@@ -1,28 +1,46 @@
-import Vue from "vue";
-import VueRouter from "vue-router";
-import Home from "../views/Home.vue";
+import Vue from 'vue'
+import VueRouter from 'vue-router'
+import Store from '@/store/index'
+import routes from './routes/pages'
+import { routerMode } from '@/config/env'
 
-Vue.use(VueRouter);
+Vue.use(VueRouter)
 
-const routes = [
-  {
-    path: "/",
-    name: "Home",
-    component: Home
-  },
-  {
-    path: "/about",
-    name: "About",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/About.vue")
+const Router = new VueRouter({
+  mode: routerMode || 'history',
+  base: process.env.BASE_URL,
+  routes,
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      return savedPosition
+    } else {
+      return { x: 0, y: 0 }
+    }
   }
-];
+})
 
-const router = new VueRouter({
-  routes
-});
+// Add process
+Router.beforeEach((to, from, next) => {
+  if (Store.state.user.token) {
+    Store.commit('ADD_PROCESS', {
+      label: to.name,
+      value: to.path
+    })
 
-export default router;
+    next()
+  } else {
+    if (!to.path.includes('/login')) {
+      return next('/login')
+    }
+  }
+
+  next()
+})
+
+// Remove Navigating to current location (XXX) is not allowed
+const routerPush = VueRouter.prototype.push
+VueRouter.prototype.push = function push(location) {
+  return routerPush.call(this, location).catch(error => error)
+}
+
+export default Router
