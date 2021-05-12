@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "cl-crud": "^1.6.6",
     "clipboard": "^2.0.6",
-    "codemirror": "^5.53.2",
+    "codemirror": "^5.58.2",
     "core-js": "^3.6.4",
     "dayjs": "^1.8.27",
     "echarts": "^4.7.0",
